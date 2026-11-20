@@ -9,7 +9,7 @@ Shader "Custom/FogVolume"
     {
         Tags
         {
-            "RenderType"="Transparent"
+            "   RenderType"="Transparent"
             "Queue"="Transparent"
         }
 
